@@ -2,6 +2,14 @@
 
 College Internal Assessment 2 (IA2) submission. The work was done on a PortSwigger Web Security Academy practice lab using Burp Suite.
 
+## Team Members
+
+| Name | Roll No. | Branch |
+|---|---|---|
+| Purv Doshi | 16014024016 | EXCP |
+| Hardik Bhutada | 16014024008 | EXCP |
+| Tanmay Jarande | 16014024024 | EXCP |
+
 ## Contents
 
 | Folder | File(s) | Description |
